@@ -1,5 +1,5 @@
 # magento-2-hreflang-tag
-Magento 2 Hreflang Tag extension is a must-have extension for multi-regional and multi-language stores, helping the store avoid problems related to identical content, notifying stores Search engines like Google know about language variations and let them show the corresponding page in search results.
+You can avoid problems with duplicate content for multi-regional and multi-language stores with the Magento 2 Hreflang Tag extension, as it notifies search engines like Google about language variations and enables them to present the suitable page in search results.
 
 Please go to https://magehq.com/magento-2-hreflang-tag.html buy extension
 
